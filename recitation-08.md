@@ -1,4 +1,5 @@
 # CMPS 2200  Recitation 08
+Reagan Esteves and Chenyu Zhao
 
 Today we'll learn more about graphs and how to navigate them. As usual, code goes in `main.py`
 
@@ -11,13 +12,7 @@ As discussed in lecture, we'll maintain a set called `frontier` that keeps track
 
 Complete the `reachable` implementation and test with `test_reachable`. Think about how to make this efficient and ensure we don't revisit nodes unnecessarily.
 
-.  
-.  
-.  
-.  
-.  
-.  
-
+done!
 
 
 
